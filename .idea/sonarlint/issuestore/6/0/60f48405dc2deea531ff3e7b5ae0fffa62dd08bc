@@ -1,0 +1,19 @@
+
+V	java:S125
+"<This block of commented-out lines of code should be removed.(ºÿşŒùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÓÄûÿÿÿÿ
+E
+java:S1656"/Remove or correct this useless self-assignment.(º£ªù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×²ŒÏıÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(Ù Âå
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(©¥¾
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(–¦âÁıÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ôşšÂûÿÿÿÿ
+h
+java:S1104"RMake theApp a static final constant or non-public and provide accessors if needed.(éºŠŸ
+B
+java:S1444",Make this "public static theApp" field final(éºŠŸ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ó„À·
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İôØû
+w
+java:S4165"aRemove this useless assignment; "bal" already holds the assigned value along all execution paths.(º£ªù

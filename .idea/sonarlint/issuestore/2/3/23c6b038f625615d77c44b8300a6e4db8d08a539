@@ -1,0 +1,36 @@
+
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(ÚÂî¼øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êùš¨üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í»‰ß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’›€Äùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²îƒ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Õœ‚şøÿÿÿÿ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(À‘ên
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(‘¡é—üÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(Ä Üøÿÿÿÿ
+M
+java:S61269"2Replace this String concatenation with Text block.(Ä Üøÿÿÿÿ
+f	java:S128L"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(´ªÎŠ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(İˆ‡úÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(’ÖĞéûÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(ïçæÿûÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(¾Ùø 
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(çîİ
+7
+java:S1116|"Remove this empty statement.(š­…Üùÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(şûı»
+3
+java:S1116"Remove this empty statement.(Ğ†–÷
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(˜ê°éøÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(·§Ñüÿÿÿÿ
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(“Ò—à
+I
+java:S6126§"2Replace this String concatenation with Text block.(“Ò—à
+B
+java:S1128"%Remove this unused import 'Main.App'.(îò„Ö8·íŠ¼Ò/
+Q
+java:S1128"/Remove this unused import 'Entity.BankDetails'.(şªØÏùÿÿÿÿ8·íŠ¼Ò/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÕŒüÿÿÿÿ

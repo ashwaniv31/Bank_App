@@ -1,0 +1,12 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ŒùşÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥•‚¹ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÌ‰¾şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥•‚¹ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÌ‰¾şÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'Entity.BankDetails'.(şªØÏùÿÿÿÿ
+;
+java:S1128"%Remove this unused import 'Main.App'.(îò„Ö
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÕŒüÿÿÿÿ

@@ -1,0 +1,12 @@
+
+I
+java:S1172"3Remove this unused method parameter "timeInString".(êŒĞÈ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±°•†ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Àà×î
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ÃËÅúÿÿÿÿ8×áí½Ò/
+h
+java:S1104"RMake theApp a static final constant or non-public and provide accessors if needed.(éºŠŸ
+B
+java:S1444",Make this "public static theApp" field final(éºŠŸ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÌİï
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İôØû
